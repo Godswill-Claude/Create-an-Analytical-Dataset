@@ -1,6 +1,5 @@
 # Create-an-Analytical-Dataset
 
-Data Cleanup – Creating an Analytical Dataset
 Overview 
 This project aims to perform advanced data cleaning operations on three sets of data to get them to each become an analytical dataset, so that we can be able to decide which city will be chosen as the location for Pawdacity’s newest (14th) store. The 14th store should be located in the city whose predicted yearly sales is found to be the highest.
 The software application used for the entire analytical process and model building is Alteryx. 
@@ -20,12 +19,8 @@ The following data, as given, are needed to inform those decisions:
 
 Step 2: Building the Training Set
 After due cleaning, the field summary report showed that there are no duplicates or missing data.
+
 Step 3: Dealing with Outliers
-
-
-
-
-
 The scatterplot data visualizations revealed that there are three outliers. 
 
 A preliminary eye check of the dataset may suggest that Buffalo, Cheyenne and Gillette appear to be outliers in TOTAL PAWDACITY SALES; Evanston, Riverton and Rock Springs in LAND AREA; Buffalo and Douglas in HOUSEHOLDS WITH UNDER 18; Casper, Cheyenne and Sheridan in POPULATION DENSITY; Buffalo, Cheyenne and Douglas in TOTAL FAMILIES; and Casper, Cheyenne and Gillette in 2010 CENSUS.
